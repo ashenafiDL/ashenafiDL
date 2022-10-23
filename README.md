@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ashenafi. I am a software engineer who is passionate about free and open source applications. I also have seroius passion for front-end development and creating simple and elegant user interfaces.
+My name is Ashenafi. I am a software engineer who is passionate about free and open source applications. I also have serious passion for front-end development and creating simple and elegant user interfaces.
 
 In my free time I love reading books and learing new foreign languages.
 
